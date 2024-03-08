@@ -25,7 +25,7 @@ public class Weight {
 
 	System.out.printf("%.2f in inches to meters is: %.6f ",inches,meter);
 	double meter2 = meter*meter;
-	double bmi = kilogram/(meter*meter);javac
+	double bmi = kilogram/(meter*meter);
 	System.out.print("body mass index is: "+bmi);
 	}
 

@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Years{
 
 
-public static void main (String[] args{
+public static void main (String[] args){
 
 Scanner input = new Scanner(System.in);
 System.out.println("Enter year");
@@ -11,7 +11,7 @@ int Number = input.nextInt();
 
 
 System.out.println("Enter month");
-int month = input.nextInt);
+int month = input.nextInt();
 
 if (month == 1){
 System.out.printf("january %d has 31days",year);
